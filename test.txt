@@ -3,3 +3,6 @@ zhifei fork.txt
 627 我在原始的修改.txt
 zhifei 我又在做了修改.txt
 627 做了一些修改
+zhifei 我在测试 tag
+zhifei push 了 tag
+zhifei tag v1.5
