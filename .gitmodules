@@ -1,0 +1,3 @@
+[submodule "firVersion"]
+	path = firVersion
+	url = https://github.com/QiuZhiFei/firVersion.git
